@@ -1,0 +1,13 @@
+C:\Users\Matros\source\repos\gamex\gamex\bin\Debug\netcoreapp3.1\gamex.exe
+C:\Users\Matros\source\repos\gamex\gamex\bin\Debug\netcoreapp3.1\gamex.deps.json
+C:\Users\Matros\source\repos\gamex\gamex\bin\Debug\netcoreapp3.1\gamex.runtimeconfig.json
+C:\Users\Matros\source\repos\gamex\gamex\bin\Debug\netcoreapp3.1\gamex.runtimeconfig.dev.json
+C:\Users\Matros\source\repos\gamex\gamex\bin\Debug\netcoreapp3.1\gamex.dll
+C:\Users\Matros\source\repos\gamex\gamex\bin\Debug\netcoreapp3.1\gamex.pdb
+C:\Users\Matros\source\repos\gamex\gamex\obj\Debug\netcoreapp3.1\gamex.csprojAssemblyReference.cache
+C:\Users\Matros\source\repos\gamex\gamex\obj\Debug\netcoreapp3.1\gamex.AssemblyInfoInputs.cache
+C:\Users\Matros\source\repos\gamex\gamex\obj\Debug\netcoreapp3.1\gamex.AssemblyInfo.cs
+C:\Users\Matros\source\repos\gamex\gamex\obj\Debug\netcoreapp3.1\gamex.csproj.CoreCompileInputs.cache
+C:\Users\Matros\source\repos\gamex\gamex\obj\Debug\netcoreapp3.1\gamex.dll
+C:\Users\Matros\source\repos\gamex\gamex\obj\Debug\netcoreapp3.1\gamex.pdb
+C:\Users\Matros\source\repos\gamex\gamex\obj\Debug\netcoreapp3.1\gamex.genruntimeconfig.cache

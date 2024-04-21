@@ -1,0 +1,13 @@
+C:\Users\Matros\source\repos\5.2\5.2\bin\Debug\netcoreapp3.1\5.2.exe
+C:\Users\Matros\source\repos\5.2\5.2\bin\Debug\netcoreapp3.1\5.2.deps.json
+C:\Users\Matros\source\repos\5.2\5.2\bin\Debug\netcoreapp3.1\5.2.runtimeconfig.json
+C:\Users\Matros\source\repos\5.2\5.2\bin\Debug\netcoreapp3.1\5.2.runtimeconfig.dev.json
+C:\Users\Matros\source\repos\5.2\5.2\bin\Debug\netcoreapp3.1\5.2.dll
+C:\Users\Matros\source\repos\5.2\5.2\bin\Debug\netcoreapp3.1\5.2.pdb
+C:\Users\Matros\source\repos\5.2\5.2\obj\Debug\netcoreapp3.1\5.2.csprojAssemblyReference.cache
+C:\Users\Matros\source\repos\5.2\5.2\obj\Debug\netcoreapp3.1\5.2.csproj.CoreCompileInputs.cache
+C:\Users\Matros\source\repos\5.2\5.2\obj\Debug\netcoreapp3.1\5.2.AssemblyInfoInputs.cache
+C:\Users\Matros\source\repos\5.2\5.2\obj\Debug\netcoreapp3.1\5.2.AssemblyInfo.cs
+C:\Users\Matros\source\repos\5.2\5.2\obj\Debug\netcoreapp3.1\5.2.dll
+C:\Users\Matros\source\repos\5.2\5.2\obj\Debug\netcoreapp3.1\5.2.pdb
+C:\Users\Matros\source\repos\5.2\5.2\obj\Debug\netcoreapp3.1\5.2.genruntimeconfig.cache

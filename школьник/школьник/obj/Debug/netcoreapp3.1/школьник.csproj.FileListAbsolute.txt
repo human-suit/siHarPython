@@ -1,0 +1,13 @@
+C:\Users\Matros\source\repos\школьник\школьник\bin\Debug\netcoreapp3.1\школьник.exe
+C:\Users\Matros\source\repos\школьник\школьник\bin\Debug\netcoreapp3.1\школьник.deps.json
+C:\Users\Matros\source\repos\школьник\школьник\bin\Debug\netcoreapp3.1\школьник.runtimeconfig.json
+C:\Users\Matros\source\repos\школьник\школьник\bin\Debug\netcoreapp3.1\школьник.runtimeconfig.dev.json
+C:\Users\Matros\source\repos\школьник\школьник\bin\Debug\netcoreapp3.1\школьник.dll
+C:\Users\Matros\source\repos\школьник\школьник\bin\Debug\netcoreapp3.1\школьник.pdb
+C:\Users\Matros\source\repos\школьник\школьник\obj\Debug\netcoreapp3.1\школьник.csprojAssemblyReference.cache
+C:\Users\Matros\source\repos\школьник\школьник\obj\Debug\netcoreapp3.1\школьник.csproj.CoreCompileInputs.cache
+C:\Users\Matros\source\repos\школьник\школьник\obj\Debug\netcoreapp3.1\школьник.AssemblyInfoInputs.cache
+C:\Users\Matros\source\repos\школьник\школьник\obj\Debug\netcoreapp3.1\школьник.AssemblyInfo.cs
+C:\Users\Matros\source\repos\школьник\школьник\obj\Debug\netcoreapp3.1\школьник.dll
+C:\Users\Matros\source\repos\школьник\школьник\obj\Debug\netcoreapp3.1\школьник.pdb
+C:\Users\Matros\source\repos\школьник\школьник\obj\Debug\netcoreapp3.1\школьник.genruntimeconfig.cache

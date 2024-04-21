@@ -1,0 +1,13 @@
+C:\Users\Matros\source\repos\frend\frend\bin\Debug\netcoreapp3.1\frend.exe
+C:\Users\Matros\source\repos\frend\frend\bin\Debug\netcoreapp3.1\frend.deps.json
+C:\Users\Matros\source\repos\frend\frend\bin\Debug\netcoreapp3.1\frend.runtimeconfig.json
+C:\Users\Matros\source\repos\frend\frend\bin\Debug\netcoreapp3.1\frend.runtimeconfig.dev.json
+C:\Users\Matros\source\repos\frend\frend\bin\Debug\netcoreapp3.1\frend.dll
+C:\Users\Matros\source\repos\frend\frend\bin\Debug\netcoreapp3.1\frend.pdb
+C:\Users\Matros\source\repos\frend\frend\obj\Debug\netcoreapp3.1\frend.csprojAssemblyReference.cache
+C:\Users\Matros\source\repos\frend\frend\obj\Debug\netcoreapp3.1\frend.AssemblyInfoInputs.cache
+C:\Users\Matros\source\repos\frend\frend\obj\Debug\netcoreapp3.1\frend.AssemblyInfo.cs
+C:\Users\Matros\source\repos\frend\frend\obj\Debug\netcoreapp3.1\frend.csproj.CoreCompileInputs.cache
+C:\Users\Matros\source\repos\frend\frend\obj\Debug\netcoreapp3.1\frend.dll
+C:\Users\Matros\source\repos\frend\frend\obj\Debug\netcoreapp3.1\frend.pdb
+C:\Users\Matros\source\repos\frend\frend\obj\Debug\netcoreapp3.1\frend.genruntimeconfig.cache
